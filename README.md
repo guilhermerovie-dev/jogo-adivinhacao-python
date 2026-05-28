@@ -1,4 +1,4 @@
-# jogo-adivinhacao-python
+# Jogo de Adivinhação
 Esse é um jogo de adivinhação feito no Python com a biblioteca nativa 'Random'. O objetivo é acertar o número que o computador escolheu.
 
 - O computador escolhe um número entre 0 e 4
